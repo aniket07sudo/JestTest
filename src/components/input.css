@@ -1,0 +1,11 @@
+.inputElement {
+    text-align: center;
+    padding: .7rem 1rem;
+    margin-bottom: .5rem;
+    border-radius: 15px;
+    border:1px solid black;
+    outline: none;
+}
+.invalid {
+    border: 1px solid red;
+}
